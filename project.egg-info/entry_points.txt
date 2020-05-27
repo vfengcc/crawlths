@@ -1,3 +1,0 @@
-[scrapy]
-settings = ths_news.settings
-
