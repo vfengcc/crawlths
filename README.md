@@ -1,6 +1,6 @@
 # 爬虫远程部署 scrapyd + spiderkeeper + supervisord
 
-![爬虫部署教程](http://book.17kaifa.com/statics/upload/img/spk000.png '爬虫部署教程')
+![爬虫部署教程](http://book.17kaifa.com/statics/upload/img/spk000.png)
 
 
 ## 远程服务器
@@ -162,18 +162,18 @@ server {
 
 访问spiderkeeper站点(上面nginx配置的域名)
 
-1. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk001.png "spiderkeeper教程")
+1. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk001.png)
 
-2. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk002.png "spiderkeeper教程")
+2. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk002.png)
 
-3. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk003.png "spiderkeeper教程") 
+3. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk003.png) 
 
-4. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk004.png "spiderkeeper教程")
+4. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk004.png)
 
-5. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk005.png "spiderkeeper教程")
+5. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk005.png)
 
-6. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk006.png "spiderkeeper教程")
+6. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk006.png)
 
-7. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk007.png "spiderkeeper教程")
+7. ![spiderkeeper](http://book.17kaifa.com/statics/upload/img/spk007.png)
 
 ## 
